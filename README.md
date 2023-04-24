@@ -6,6 +6,7 @@ Conda is highly recommended to manage your Python environment.
 * Python 3.6
 * Pytorch >= 1.6.0
 * [Files2ROUGE](https://github.com/pltrdy/files2rouge)
+* curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 ```
 pip install --editable ./
